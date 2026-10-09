@@ -4,7 +4,7 @@
   <img src="assets/ryestudio-banner.svg" width="900" alt="RyeStudio · 杭州摄影作品站">
 </a>
 
-**<https://ryex1.meoo.fun/>** —— 杭州 · 摄影。这个站是我自己写的：React + Supabase 的纯前端，没有自建后端。
+**<https://ryex1.meoo.fun/>**
 
 | 入口 | 里面有什么 |
 | --- | --- |
@@ -17,7 +17,7 @@
 
 每张照片只透出六项拍摄信息——机身、镜头、ISO、光圈、快门、城市。拍摄时间和坐标不进页面。
 
-## 也写一点工具
+## 还有一点工具
 
 - [pokemon-sv-image-prompt](https://github.com/Ryestudio1/pokemon-sv-image-prompt) —— 宝可梦 朱／紫 实机游戏截图风格的图片提示词 skill，附一个组装 + 自检的命令行脚本
 
